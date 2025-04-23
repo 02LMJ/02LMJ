@@ -17,7 +17,8 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=02LMJ&show_icons=true&include_all_commits=true)](https://github.com/02LMJ/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=02LMJ&layout=compact)](https://github.com/02LMJ/github-readme-stats)
 
-### 🧰 Tech Stacks
+## 🧰 Tech Stacks
+
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
@@ -30,9 +31,8 @@
 
 ---
 
-### 💻 How to Contact
+## 💻 How to Contact
 <p>
-  <a href="mailto:lmj020313@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/lmj020313@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/399578257818648581" target="_blank">
