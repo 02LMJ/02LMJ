@@ -3,14 +3,16 @@
 
 ## Welcome to LMJ's space 😆
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=87A0F7&width=435&lines=Better+late+than+never)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 - 🎒 Education : Chungbuk National University(2021. 03 ~ )
 - 🧠 Interest : Database & AI 
 - 🌱 Studying : **Python, MySQL, Docker, Algorithms**
 
 
-[![Github Badge](https://img.shields.io/badge/-02LMJ-grey?style=flat&logo=github&logoColor=white&link=https://github.com/02LMJ/)](https://www.github.com/02LMJ/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=02LMJ@github.io/)](02LMJ@github.io/)
-
+[![Github Badge](https://img.shields.io/badge/-02LMJ-grey?style=flat&logo=github&logoColor=white&link=https://github.com/02LMJ/)](https://www.github.com/02LMJ/)
 ## 📊 Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=02LMJ alt=02LMJ /> </p>
 
@@ -43,6 +45,14 @@
   </a>
 </p>
 
+---
+
+### 🎯 Future Plans
+
+- [ ] DB Design and Query Optimization Exercise
+- [ ] Create a simple ChatBot Service
+- [ ] Mastering Docker Usage
+- [ ] Create a Tistory and write consistently
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=87A0F7&width=435&lines=Better+late+than+never)](https://git.io/typing-svg)
